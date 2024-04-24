@@ -44,6 +44,7 @@ Classifier Development
 Upon completing the modeling process, we developed a classifier capable of identifying high-risk areas for severe collisions. This classifier can aid authorities in implementing precautionary measures, such as speed limits and vehicle size restrictions, to reduce the likelihood of accidents.
 
 
+<img width="1399" alt="Flask web page result" src="https://github.com/PoojithLankipalli/NYC-Traffic-Collision-Analysis/assets/69042617/6b2aeebb-8b43-488d-a324-c10497514dd2">
 
 
 
